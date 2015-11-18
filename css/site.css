@@ -1,0 +1,8 @@
+body{
+
+	margin-top: 5px;
+	background: black;
+	background-image: url("../img/cloudninja.png");
+	background-repeat: no-repeat;
+	background-position: bottom-right; 
+}
