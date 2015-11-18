@@ -1,10 +1,12 @@
 <?php
 
 $output = "
-<div class='row'>
-  <div class='col-md-4'></div>
-  <div class='col-md-4'><h1>Hello, World!</h1></div>
-  <div class='col-md-4'></div>
+<div class='container-fluid'>
+	<div class='row'>
+	  <div class='col-md-4'></div>
+	  <div class='col-md-4'>Hello, World!</div>
+	  <div class='col-md-4'></div>
+	</div>
 </div>
 ";
 
